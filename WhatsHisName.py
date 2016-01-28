@@ -105,7 +105,7 @@ while 1:
     Result = MonitorScreen()
     if Result == 1:
         with open(os.devnull, 'wb') as devnull:
-            subprocess.check_call(['mplayer', 'cena.wav'], stdout=devnull, stderr=subprocess.STDOUT)
+            subprocess.check_call(['mplayer', '-ao', 'pulse', 'cena.wav'], stdout=devnull, stderr=subprocess.STDOUT)
         break
 
 

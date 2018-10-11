@@ -5,7 +5,7 @@ his name again?
 
 Has this ever happened to you? *What's His Name* to the rescue!
 
-Using state-of-the-art machine learning technology, this app will remind you that... HIS NAME IS JOHN CENA :notes:.
+Using state-of-the-art machine learning technology, this app will remind you that... HIS NAME IS JOHN CENA!! :notes:.
 
 
 ## Demo
